@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.t-1{
+    color: aquamarine !important;
+    font-size: 35px;
+}
+body{
+    height: 100vh;
+}
+.main{
+    background-image: url('nikita-kachanovsky-OVbeSXRk_9E-unsplash.jpg');
+    background-size:cover;
+    padding-bottom: 227px;
+}
+.container{
+    display: flex;
+    height: 600px;
+}
+a{
+    color: white;
+}
+.button{
+    border-radius: 20px;
+    background-color: aquamarine;
+}
+.text{
+    margin-left: 20%;
+    color: white;
+}
+li{
+    display: flex;
+}
+.mid{
+    padding-top: 250px;
+}
+h1{
+    font-size: 65px;
+}
+hr{
+    width: 150px;
+    background-color:aqua;
+    height: 3px !important;
+}
+.b-mid{
+    width: 40%;
+}
